@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     title: "Vyankatesh Nilesh Kale | Software Developer",
     description:
       "Computer Science student exploring software development, algorithms, and AI applications.",
-    url: "https://vyankatesh-kale.dev",
+    url: "https://vyankatesh-portfolio-olive.vercel.app",
     siteName: "Vyankatesh Nilesh Kale",
     locale: "en_US",
     type: "website",
@@ -49,6 +49,9 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: "/icon.svg",
+  },
+  verification: {
+    google: "3sG3LQ4tmpt5hFjnupc4LUnQ_Sb1z03eaeK6K-5ytIw",
   },
 };
 
